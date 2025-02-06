@@ -5,3 +5,4 @@ python-binance
 flask
 binance
 telegram
+python-dotenv
