@@ -1,0 +1,7 @@
+python-telegram-bot[job-queue]==20.3
+pandas
+numpy
+python-binance
+flask
+binance
+telegram
